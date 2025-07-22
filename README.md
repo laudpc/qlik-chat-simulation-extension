@@ -2,7 +2,7 @@
 
 A Qlik Sense extension that simulates a chat conversation interface, displaying messages in chat bubbles with different styles for sent and received messages.
 
-![Chat Simulation Screenshot](screenshot.png) *(opcional - adicione uma imagem depois)*
+![Chat Simulation Screenshot](screenshot.png) 
 
 ## Features
 

@@ -1,0 +1,8 @@
+{
+  "name": "Chat Simulation",
+  "description": "Extensão que simula um chat baseado em dados",
+  "version": "1.0.2",
+  "author": "Laura Duarte",
+  "type": "visualization",
+  "icon": "comments"
+}
